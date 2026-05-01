@@ -13,6 +13,9 @@ A simple and efficient C-based application to read and edit MP3 metadata such as
 - File Handling
 - Modular Programming
 
+Author 
+varshitha118
+
 ## ▶️ How to Run
 ```bash
 gcc *.c
