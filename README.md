@@ -4,8 +4,7 @@ A simple and efficient C-based application to read and edit MP3 metadata such as
 
 ## 🚀 Features
 - View MP3 tag details
-- Edit title, artist, album
-- Modify year and genre
+- Edit title, artist, album, year, genre, comment.
 - Command-line interface
 
 ## 🛠️ Technologies Used
