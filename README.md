@@ -15,4 +15,4 @@ A simple and efficient C-based application to read and edit MP3 metadata such as
 ## ▶️ How to Run
 ```bash
 gcc *.c
-./a.out sample.mp3
+./a.out 
